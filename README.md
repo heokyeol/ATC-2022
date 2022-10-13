@@ -1,6 +1,5 @@
 # ATC-2022
 
-## :people_hugging: Authors
 
 [@권보미](https://github.com/hardworking-nomad) | [@장예원](https://github.com/KimDaeSeong8721) |   [@허결](https://github.com/heokyeol) |
 :---|:---|:---
